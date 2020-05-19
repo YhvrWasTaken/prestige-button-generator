@@ -3,6 +3,10 @@
   src: url('MonospaceTypewriter.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
+* {
+	font-family: "MonospaceTypewriter"
+}
+
 body{
 	background: #ffffff
 }
@@ -30,7 +34,6 @@ h1{
     border-radius: 4px;
     transition-duration: 0.2s;
     cursor: pointer;
-	font-family: "MonospaceTypewriter"
 }
 
 .tabbtn {
