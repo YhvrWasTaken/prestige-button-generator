@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'MonospaceTypewriter';
-  src: url('webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+  src: url('MonospaceTypewriter.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
 
 body{
